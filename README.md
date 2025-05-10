@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Louis Obrien
 
-<!--
-**louishobrien/louishobrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Veteran transitioning into tech | Future Cybersecurity & Networking Pro  
+📚 Currently studying for the CompTIA A+ certification  
+💻 Learning Python and IT automation  
+🔐 Passionate about cybersecurity, systems, and practical tech solutions  
+📍 Based in Fort Worth, TX | Open to hybrid & remote roles  
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On:
+- Studying for CompTIA A+
+- Learning Python fundamentals
+- Building out my GitHub with labs, notes, and beginner-friendly projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/louishobrien)
+- 📧 louis.h.obrien@gmail.com
